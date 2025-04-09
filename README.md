@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Tushar Singh Chauhan!
 
-Welcome to my GitHub! I'm an Electrical and Computer Engineering undergraduate at Thapar Institute of Engineering and Technology, passionate about full-stack development, mobile app development, and AI. I love crafting clean, scalable code and building intuitive user experiences.
+Welcome to my GitHub! I'm an Electrical and Computer Engineering undergraduate at Thapar Institute of Engineering and Technology, passionate about full-stack development and AI. I love crafting clean, scalable code and building intuitive user experiences.
 
 ---
 
