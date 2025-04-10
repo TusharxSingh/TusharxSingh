@@ -33,6 +33,9 @@ Welcome to my GitHub! I'm an Electrical and Computer Engineering undergraduate a
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
 <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/>
 <img src="https://img.icons8.com/ios-filled/50/092E20/django.png" alt="Django"/>
+<img src="https://img.icons8.com/ios-filled/50/F37626/jupyter.png" alt="Jupyter Notebook" width="30"/>
+<img src="https://img.icons8.com/ios-filled/50/F05032/git.png" alt="Git" width="30"/>
+<img src="https://img.icons8.com/ios-glyphs/50/000000/github.png" alt="GitHub" width="30"/>
 
 
 ---
